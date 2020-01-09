@@ -592,5 +592,5 @@ func (h Host) getPort() int {
 		return 22
 	} else {
 		return h.CustomPort
-	}	
+	}
 }
